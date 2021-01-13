@@ -12,7 +12,7 @@ setuptools.setup(
     description="lets you know if given int is prime or odd or even",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Navdeep6/navdeepPackage",
+    url="https://github.com/Navdeep6/tpackage",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
