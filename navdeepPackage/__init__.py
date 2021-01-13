@@ -1,2 +1,2 @@
-from navdeepPackage.c1 import *
-from navdeepPackage.c2 import *
+from tpackage.code1 import *
+from tpackage.code import *
